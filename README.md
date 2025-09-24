@@ -28,7 +28,7 @@ ssh -T git@personalgithub.com
 
 
 
-cursor settings
+# cursor settings
 ```bash
 ~/Library/Application Support/Cursor/User/settings.json
 ```
